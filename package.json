@@ -1,0 +1,19 @@
+{
+  "name": "rimsha_qureshi_oop_mybank",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "Opp_mybank.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "install": "^0.13.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
